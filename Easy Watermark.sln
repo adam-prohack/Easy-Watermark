@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.6
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy Watermark", "Easy Watermark\Easy Watermark.csproj", "{58C6D511-6B7C-41EB-BD7B-6FE5E8D9DF6A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy Watermark.View", "Easy Watermark\Easy Watermark.View.csproj", "{58C6D511-6B7C-41EB-BD7B-6FE5E8D9DF6A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Layouts", "Layouts", "{39AD6C63-BC0E-498D-AB2C-4D6351D1C87A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,5 +20,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{58C6D511-6B7C-41EB-BD7B-6FE5E8D9DF6A} = {39AD6C63-BC0E-498D-AB2C-4D6351D1C87A}
 	EndGlobalSection
 EndGlobal
