@@ -8,6 +8,6 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyCopyright("Copyright © Adam Brzozowski 2017")]
 [assembly: AssemblyTrademark("Adam Brzozowski")]
 [assembly: ComVisible(false)]
-[assembly: Guid("58c6d511-6b7c-41eb-bd7b-6fe5e8d9df6a")]
+[assembly: Guid("7ab92579-c661-4a24-b664-6628c06318ed")]
 [assembly: AssemblyVersion("1.0.0.0")]
 [assembly: AssemblyFileVersion("1.0.0.0")]
