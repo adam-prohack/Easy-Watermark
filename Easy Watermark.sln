@@ -11,6 +11,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy Watermark.Tests", "Easy Watermark.Tests\Easy Watermark.Tests.csproj", "{DB942D5D-FC14-4C15-9BE1-148836AD3BBD}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7AB92579-C661-4A24-B664-6628C06318ED} = {7AB92579-C661-4A24-B664-6628C06318ED}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
